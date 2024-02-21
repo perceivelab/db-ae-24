@@ -5,8 +5,6 @@ layout: default
 
 #### Orario delle lezioni
 
-**TBD**
-
 | Giorno          | Aula |
 | :-------------: |      |
 | Giovedì 9-12 |  D44  | 
@@ -26,28 +24,28 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 
 | Argomento                                 | Data           |Orario           | Slides                          | Codice/Altro|
 |-------------------------------------------|----------------|---------------- |-------------------------------  |-----------------|
-| Introduzione Corso                        | 07 Marzo 2024  |10-12            |                                 |                 |
-| Modello relazionale                       | 07 Marzo 2024  |10-12            |                                 |                 |
-| Algebra relazionale                       | 08 Marzo 2024  |8-10             |                                 |                 |                                 |                 |
-| Esercitazione Algebra relazionale         | 14 Marzo 2024  |9-12             |                                 |                 |
-| SQL: Concetti di base                     | 15 Marzo 2024  |8-10             |                                 |                 |
-| SQL: Avanzato + MySQL                     | 21 Marzo 2024  |9-12             |                                 |                 |
-| Esercitazione MySQL                       | 22 Marzo 2024  |8-11             |                                 |                 |
-| SQL Avanzato: Stored Procedure e Trigger  | 28 Marzo 2024  |10-12            |                                 |                 |
-| Esercitazione  Procedure                  | 29 Marzo 2024  |8-11             |                                 |                 |
-| Esercitazione  Trigger                    | 04 Aprile 2024 |9-12             |                                 |                 |
-| Esercitazione  Complessiva SQL - 1        | 05 Aprile 2024 |8-11             |                                 |                 |
-| Esercitazione  Complessiva SQL - 2        | 11 Aprile 2024 |9-12             |                                 |                 |
-| Prova in itinere  SQL                     | 15 Aprile 2024 |15-18            |                                 |                 |
-| NoSQL                                     | 18 Aprile 2024 |10-12            |                                 |                 |
-| Esercitazione NoSQL                       | 19 Aprile 2024 |8-11             |                                 |                 |
-| Progettazione Concettuale                 | 02 Maggio 2024 |10-12            |                                 |                 |
-| Esempi progettazione concettuale          | 03 Maggio 2024 |8-11             |                                 |                 |
-| Progettazione logica                      | 09 Maggio 2024 |10-12            |                                 |                 |
-| Esercitazione progettazione logica        | 10 Maggio 2024 |8-11             |                                 |                 |
-| Esercitazione progettazione               | 16 Maggio 2024 |8-12             |                                 |                 |
-| Esercitazione progettazione               | 17 Maggio 2024 |8-11             |                                 |                 |
-| Prova in itinere Progettazione            | 31 Maggio 2024 |TBD              |                                 |                 | 
+| Introduzione Corso                        | 08 Marzo 2024  |8-10             |                                 |                 | 
+| Modello relazionale                       | 08 Marzo 2024  |8-10             |                                 |                 | 
+| Algebra relazionale                       | 14 Marzo 2024  |9-11             |                                 |                 |
+| Esercitazione Algebra relazionale         | 15 Marzo 2024  |8-11             |                                 |                 |
+| SQL: Concetti di base                     | 21 Marzo 2024  |9-11             |                                 |                 |
+| SQL: Avanzato + MySQL                     | 22 Marzo 2024  |8-11             |                                 |                 |
+| Esercitazione MySQL                       | 28 Marzo 2024  |9-12             |                                 |                 |
+| SQL Avanzato: Stored Procedure e Trigger  | 29 Marzo 2024  |8-10             |                                 |                 |
+| Esercitazione  Procedure                  | 04 Aprile 2024 |9-12             |                                 |                 |
+| Esercitazione  Trigger                    | 05 Aprile 2024 |8-11             |                                 |                 |
+| Esercitazione  Complessiva SQL - 1        | 11 Aprile 2024 |9-12             |                                 |                 |
+| Esercitazione  Complessiva SQL - 2        | 15 Aprile 2024 |15-18            |                                 |                 |
+| **Prova in itinere  SQL**                 | 19 Aprile 2024 |TBD              |                                 |                 | 
+| NoSQL                                     | 02 Maggio 2024 |10-12            |                                 |                 |
+| Esercitazione NoSQL                       | 03 Maggio 2024 |8-11             |                                 |                 |
+| Progettazione Concettuale                 | 09 Maggio 2024 |10-12            |                                 |                 |
+| Esempi progettazione concettuale          | 10 Maggio 2024 |8-11             |                                 |                 |
+| Progettazione logica                      | 23 Maggio 2024 |10-12            |                                 |                 |
+| Esercitazione progettazione logica        | 24 Maggio 2024 |8-11             |                                 |                 |
+| Esercitazione progettazione               | 30 Maggio 2024 |8-12             |                                 |                 |
+| Esercitazione progettazione               | 31 Maggio 2024 |8-11             |                                 |                 |
+| **Prova in itinere Progettazione**        | 07 Giugno 2024 |TBD              |                                 |                 | 
 
 #### Esami
 
