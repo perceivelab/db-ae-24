@@ -24,8 +24,8 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 
 | Argomento                                 | Data           |Orario           | Slides                          | Codice/Altro|
 |-------------------------------------------|----------------|---------------- |-------------------------------  |-----------------|
-| Introduzione Corso                        | 08 Marzo 2024  |8:00-10:00             |                                 |                 | 
-| Modello relazionale                       | 08 Marzo 2024  |8:00-10:00             |                                 |                 | 
+| Introduzione Corso                        | 08 Marzo 2024  |8:00-10:00       |[Introduzione](https://bit.ly/43cYYpx) |                 | 
+| Modello relazionale                       | 08 Marzo 2024  |8:00-10:00       |[Modello Relazionale](https://bit.ly/48Mxg44)                  | 
 | Algebra relazionale                       | 14 Marzo 2024  |9:00-11:00             |                                 |                 |
 | Esercitazione Algebra relazionale         | 15 Marzo 2024  |8:00-11:00             |                                 |                 |
 | SQL: Concetti di base                     | 21 Marzo 2024  |9:00-11:00             |                                 |                 |
