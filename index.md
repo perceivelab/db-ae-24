@@ -39,8 +39,8 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | **Prova in itinere  SQL**                 | 19 Aprile 2024 |TBD                    |                                 |                 | 
 | NoSQL                                     | 02 Maggio 2024 |10:00-12:00            |                                 |                 |
 | Esercitazione NoSQL                       | 03 Maggio 2024 |8:00-11:00             |                                 |                 |
-| Progettazione Concettuale                 | 09 Maggio 2024 |10:00-12:00            |                                 |                 |
-| Esempi progettazione concettuale          | 10 Maggio 2024 |8:00-11:00             |                                 |                 |
+| Progettazione Concettuale                 | 16 Maggio 2024 |10:00-12:00            |                                 |                 |
+| Esempi progettazione concettuale          | 17 Maggio 2024 |8:00-11:00             |                                 |                 |
 | Progettazione logica                      | 23 Maggio 2024 |10:00-12:00            |                                 |                 |
 | Esercitazione progettazione logica        | 24 Maggio 2024 |8:00-11:00             |                                 |                 |
 | Esercitazione progettazione               | 30 Maggio 2024 |8:00-12:00             |                                 |                 |
