@@ -22,30 +22,30 @@ Di seguito l'indirizzo per accedere al server del corso:
 
 Il programma delle lezioni è provvisorio e può subire variazioni.
 
-| Argomento                                 | Data           |Orario           | Slides                          | Codice/Altro|
-|-------------------------------------------|----------------|---------------- |-------------------------------  |-----------------|
-| Introduzione Corso                        | 08 Marzo 2024  |8:00-10:00       |[Introduzione](https://bit.ly/43cYYpx)                   |                 | 
-| Modello relazionale                       | 08 Marzo 2024  |8:00-10:00       |[Modello Relazionale](https://bit.ly/48Mxg44)            |                 |
-| Algebra relazionale                       | 14 Marzo 2024  |9:00-11:00       |[Algebra Relazionale](https://tinyurl.com/algebrarelaz)  |                 |
-| Esercitazione Algebra relazionale         | 15 Marzo 2024  |8:00-11:00       |[Testo 1](https://tinyurl.com/es1algrel) [Soluzione1](https://tinyurl.com/es1sol)  <br> [Testo 2](https://tinyurl.com/es2algrel) [Soluzione2](https://tinyurl.com/es2sol)                                |[How To Use Relax](https://tinyurl.com/useRelax)              |
-| SQL: Concetti di base + MySQL             | 21 Marzo 2024  |9:00-11:00             |                                 |                 |
-| Esercitazione MySQL                       | 22 Marzo 2024  |8:00-11:00             |                                 |                 |
-| SQL Operatori Aggregati                   | 28 Marzo 2024  |9:00-12:00             |                                 |                 |
-| Esercitazione Operatori Aggregati         | 29 Marzo 2024  |8:00-10:00             |                                 |                 |
-| SQL Avanzato: Stored Procedure e Trigger  | 04 Aprile 2024 |9:00-12:00             |                                 |                 |
-| Esercitazione  Procedure + Trigger        | 05 Aprile 2024 |8:00-11:00             |                                 |                 |
-| Esercitazione  Complessiva SQL - 1        | 12 Aprile 2024 |8:00-11:00             |                                 |                 |
-| Esercitazione  Complessiva SQL - 2        | 18 Aprile 2024 |9:00-12:00             |                                 |                 |
-| **Prova in itinere  SQL**                 | 19 Aprile 2024 |TBD                    |                                 |                 | 
-| NoSQL                                     | 02 Maggio 2024 |10:00-12:00            |                                 |                 |
-| Esercitazione NoSQL                       | 03 Maggio 2024 |8:00-11:00             |                                 |                 |
-| Progettazione Concettuale                 | 16 Maggio 2024 |10:00-12:00            |                                 |                 |
-| Esempi progettazione concettuale          | 17 Maggio 2024 |8:00-11:00             |                                 |                 |
-| Progettazione logica                      | 23 Maggio 2024 |10:00-12:00            |                                 |                 |
-| Esercitazione progettazione logica        | 24 Maggio 2024 |8:00-11:00             |                                 |                 |
-| Esercitazione progettazione               | 30 Maggio 2024 |8:00-12:00             |                                 |                 |
-| Esercitazione progettazione               | 31 Maggio 2024 |8:00-11:00             |                                 |                 |
-| **Prova in itinere Progettazione**        | 07 Giugno 2024 |TBD                    |                                 |                 | 
+| Argomento                                          | Data           |Orario           | Slides                          | Codice/Altro|
+|----------------------------------------------------|----------------|---------------- |-------------------------------  |-----------------|
+| Introduzione Corso                                 | 08 Marzo 2024  |8:00-10:00       |[Introduzione](https://bit.ly/43cYYpx)                   |                 | 
+| Modello relazionale                                | 08 Marzo 2024  |8:00-10:00       |[Modello Relazionale](https://bit.ly/48Mxg44)            |                 |
+| Algebra relazionale                                | 14 Marzo 2024  |9:00-11:00       |[Algebra Relazionale](https://tinyurl.com/algebrarelaz)  |                 |
+| Esercitazione Algebra relazionale                  | 15 Marzo 2024  |8:00-11:00       |[Testo 1](https://tinyurl.com/es1algrel) [Soluzione1](https://tinyurl.com/es1sol)  <br> [Testo 2](https://tinyurl.com/es2algrel) [Soluzione2](https://tinyurl.com/es2sol)                                |[How To Use Relax](https://tinyurl.com/useRelax)              |
+| SQL: Concetti di base + MySQL                      | 21 Marzo 2024  |9:00-11:00             |                                 |                 |
+| SQL Operatori Aggregati + Esercitazione MySQL Base | 22 Marzo 2024  |8:00-11:00             |                                 |                 |
+| SQL Query Nidificate + Esercitazione op. aggregati | 28 Marzo 2024  |9:00-12:00             |                                 |                 |
+| SQL Avanzato: Stored Procedure e Trigger           | 29 Marzo 2024  |8:00-10:00             |                                 |                 |
+| Esercitazione  Procedure + Trigger                 | 04 Aprile 2024 |9:00-12:00             |                                 |                 |
+| Esercitazione  Complessiva SQL - 1                 | 05 Aprile 2024 |8:00-11:00             |                                 |                 |
+| Esercitazione  Complessiva SQL - 2                 | 12 Aprile 2024 |8:00-11:00             |                                 |                 |
+| Simulazione Prova in itinere                       | 18 Aprile 2024 |9:00-12:00             |                                 |                 |
+| **Prova in itinere  SQL**                          | 19 Aprile 2024 |TBD                    |                                 |                 | 
+| NoSQL                                              | 02 Maggio 2024 |10:00-12:00            |                                 |                 |
+| Esercitazione NoSQL                                | 03 Maggio 2024 |8:00-11:00             |                                 |                 |
+| Progettazione Concettuale                          | 16 Maggio 2024 |10:00-12:00            |                                 |                 |
+| Esempi progettazione concettuale                   | 17 Maggio 2024 |8:00-11:00             |                                 |                 |
+| Progettazione logica                               | 23 Maggio 2024 |10:00-12:00            |                                 |                 |
+| Esercitazione progettazione logica                 | 24 Maggio 2024 |8:00-11:00             |                                 |                 |
+| Esercitazione progettazione                        | 30 Maggio 2024 |8:00-12:00             |                                 |                 |
+| Esercitazione progettazione                        | 31 Maggio 2024 |8:00-11:00             |                                 |                 |
+| **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD                    |                                 |                 | 
 
 #### Esami
 
@@ -62,16 +62,23 @@ In tutti i casi, è **obbligatoria** la prenotazione tramite il Portale studenti
 **Prova in itinere 1: SQL**
 
 L'accesso alla prova in itinere è subordinato alla consegna di:
-  - almeno 2 delle 3 esercitazioni che verranno svolte in aula. La consegna delle esercitazioni deve avvenire alla fine della lezione stessa. 
+  - almeno 2 delle 3 esercitazioni che verranno svolte in aula. La consegna delle esercitazioni deve avvenire alla fine della lezione stessa.
+  - 
+    |#      | Esercitazioni                             | Data Esercitazione | 
+    |------ | ----------------------------------------- | -----------------  | 
+    | 1     | Esercitazione  Complessiva SQL - 1        | 05 Aprile 2024     | 
+    | 2     | Esercitazione  Complessiva SQL - 2        | 12 Aprile 2024     | 
+    | 3     | Simulazione Prova in itinere              | 18 Aprile 2024     |
+    
   - almeno 4 dei 5 homework che verranno assegnati durante la prima metà del corso
     
-    |#      | Homework                  | Data Assegnazione | Data Consegna    |
-    |------ | ------------------------- | ----------------  | ---------------- |
+    |#      | Homework                  | Data Assegnazione        | Data Consegna    |
+    |------ | ------------------------- | -----------------------  | ---------------- |
     | 1     | [Algebra Relazionale](https://tinyurl.com/relalghw1) | 15 Marzo 2024     | 22 Marzo 2024    |
-    | 2     |                           |                   |                  |
-    | 3     |                           |                   |                  |
-    | 4     |                           |                   |                  |
-    | 5     |                           |                   |                  |
+    | 2      |MySQL Base                                           | 22 Marzo 2024     | 29 Marzo 2024    |
+    | 3     |                                                      |                   |                  |
+    | 4     |                                                      |                   |                  |
+    | 5     |                                                      |                   |                  |
 
 #### Contatti e ricevimento
 
