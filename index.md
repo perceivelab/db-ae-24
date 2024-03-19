@@ -27,13 +27,13 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Introduzione Corso                        | 08 Marzo 2024  |8:00-10:00       |[Introduzione](https://bit.ly/43cYYpx)                   |                 | 
 | Modello relazionale                       | 08 Marzo 2024  |8:00-10:00       |[Modello Relazionale](https://bit.ly/48Mxg44)            |                 |
 | Algebra relazionale                       | 14 Marzo 2024  |9:00-11:00       |[Algebra Relazionale](https://tinyurl.com/algebrarelaz)  |                 |
-| Esercitazione Algebra relazionale         | 15 Marzo 2024  |8:00-11:00       |[Testo 1](https://tinyurl.com/es1algrel) [Soluzione1](https://tinyurl.com/es1sol)  <br> [Testo 2](https://tinyurl.com/es2algrel) [Soluzione2](https://tinyurl.com/es2sol)                                |[How To Use Relax](https://tinyurl.com/useRelax)                 |
-| SQL: Concetti di base                     | 21 Marzo 2024  |9:00-11:00             |                                 |                 |
-| SQL: Avanzato + MySQL                     | 22 Marzo 2024  |8:00-11:00             |                                 |                 |
-| Esercitazione MySQL                       | 28 Marzo 2024  |9:00-12:00             |                                 |                 |
-| SQL Avanzato: Stored Procedure e Trigger  | 29 Marzo 2024  |8:00-10:00             |                                 |                 |
-| Esercitazione  Procedure                  | 04 Aprile 2024 |9:00-12:00             |                                 |                 |
-| Esercitazione  Trigger                    | 05 Aprile 2024 |8:00-11:00             |                                 |                 |
+| Esercitazione Algebra relazionale         | 15 Marzo 2024  |8:00-11:00       |[Testo 1](https://tinyurl.com/es1algrel) [Soluzione1](https://tinyurl.com/es1sol)  <br> [Testo 2](https://tinyurl.com/es2algrel) [Soluzione2](https://tinyurl.com/es2sol)                                |[How To Use Relax](https://tinyurl.com/useRelax)              |
+| SQL: Concetti di base + MySQL             | 21 Marzo 2024  |9:00-11:00             |                                 |                 |
+| Esercitazione MySQL                       | 22 Marzo 2024  |8:00-11:00             |                                 |                 |
+| SQL Operatori Aggregati                   | 28 Marzo 2024  |9:00-12:00             |                                 |                 |
+| Esercitazione Operatori Aggregati         | 29 Marzo 2024  |8:00-10:00             |                                 |                 |
+| SQL Avanzato: Stored Procedure e Trigger  | 04 Aprile 2024 |9:00-12:00             |                                 |                 |
+| Esercitazione  Procedure + Trigger        | 05 Aprile 2024 |8:00-11:00             |                                 |                 |
 | Esercitazione  Complessiva SQL - 1        | 12 Aprile 2024 |8:00-11:00             |                                 |                 |
 | Esercitazione  Complessiva SQL - 2        | 18 Aprile 2024 |9:00-12:00             |                                 |                 |
 | **Prova in itinere  SQL**                 | 19 Aprile 2024 |TBD                    |                                 |                 | 
