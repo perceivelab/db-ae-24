@@ -28,7 +28,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Modello relazionale                                | 08 Marzo 2024  |8:00-10:00       |[Modello Relazionale](https://bit.ly/48Mxg44)            |                 |
 | Algebra relazionale                                | 14 Marzo 2024  |9:00-11:00       |[Algebra Relazionale](https://tinyurl.com/algebrarelaz)  |                 |
 | Esercitazione Algebra relazionale                  | 15 Marzo 2024  |8:00-11:00       |[Testo 1](https://tinyurl.com/es1algrel) [Soluzione1](https://tinyurl.com/es1sol)  <br> [Testo 2](https://tinyurl.com/es2algrel) [Soluzione2](https://tinyurl.com/es2sol)                                |[How To Use Relax](https://tinyurl.com/useRelax)              |
-| SQL: Concetti di base + MySQL                      | 21 Marzo 2024  |9:00-11:00             |                                 |                 |
+| SQL: Concetti di base + MySQL                      | 21 Marzo 2024  |9:00-11:00             |[SQL base](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EQayLibXXMtPmeNbX_C4RBsBx68lCU3TQK1H36LsjtqyZQ?e=Sq0Bgl)          |[MySQL](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EUHODtxLUdxOi4NzHtwVlmIB1-WPl5hKXWhLKTbuMKraOw?e=ZOWG3o)                 |
 | SQL Operatori Aggregati + Esercitazione MySQL Base | 22 Marzo 2024  |8:00-11:00             |                                 |                 |
 | SQL Query Nidificate + Esercitazione op. aggregati | 28 Marzo 2024  |9:00-12:00             |                                 |                 |
 | SQL Avanzato: Stored Procedure e Trigger           | 29 Marzo 2024  |8:00-10:00             |                                 |                 |
