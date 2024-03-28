@@ -72,13 +72,13 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
     
   - almeno 4 dei 5 homework che verranno assegnati durante la prima metà del corso
     
-|#      | Homework                  | Data Assegnazione        | Data Consegna    |
-|------ | ------------------------- | -----------------------  | ---------------- |
-| 1     | [Algebra Relazionale](https://tinyurl.com/relalghw1) | 15 Marzo 2024     | 22 Marzo 2024    |
-| 2     | [MySQL Base](https://tinyurl.com/hw2basesql)         | 22 Marzo 2024     | 29 Marzo 2024    |
-| 3     | [SQL Operatori Aggregati]()            | 28 Marzo 2024     | 04 Aprile 2024   |
-| 4     | Procedure e Trigger                                  | 29 Marzo 2024     | 09 Aprile 2024   |
-| 5     |                                                      |                   |                  |
+|#      | Homework                  | Data Assegnazione          | Data Consegna    |
+|------ | ------------------------- | -----------------------    | ---------------- |
+| 1     | [Algebra Relazionale](https://tinyurl.com/relalghw1)   | 15 Marzo 2024     | 22 Marzo 2024    |
+| 2     | [MySQL Base](https://tinyurl.com/hw2basesql)           | 22 Marzo 2024     | 29 Marzo 2024    |
+| 3     | [SQL Operatori Aggregati](https://tinyurl.com/hw3aggr) | 28 Marzo 2024     | 04 Aprile 2024   |
+| 4     | Procedure e Trigger                                    | 29 Marzo 2024     | 09 Aprile 2024   |
+| 5     |                                                        |                   |                  |
 
 #### Contatti e ricevimento
 
