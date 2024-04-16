@@ -36,7 +36,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione  Complessiva SQL - 1                 | 05 Aprile 2024 |8:00-11:00             |                              | [Esercitazione](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EclR4npL2UlJg0WlRzj_zZwBr4B6cHlyWJhfuP0LxLDNLg?e=eNhlsA)   [dati](https://studentiunict-my.sharepoint.com/:u:/g/personal/f_proiettosalanitri_unict_it/EStWqd999YtKjQdqnDztzB4BCsXCqLRiQV0K0r3rs7CK_A?e=96qpxG) <br> [Soluzione](https://tinyurl.com/9essol)                 |
 | Esercitazione  Complessiva SQL - 2                 | 11 Aprile 2024 |8:00-11:00             |                                 |[Esercitazione](https://tinyurl.com/es1104) [dati](https://tinyurl.com/dati1104) <br> [Soluzione](https://tinyurl.com/10soles)                 |
 | Simulazione Prova in itinere                       | 12 Aprile 2024 |9:00-12:00             |                                 |                 |
-| **Prova in itinere  SQL**                          | **29 Aprile 2024** |TBD                    |                                 |                 | 
+| **Prova in itinere  SQL**                          | **29 Aprile 2024** |15:00-19:00        |                                 |                 | 
 | NoSQL                                              | 02 Maggio 2024 |10:00-12:00            |                                 |                 |
 | Esercitazione NoSQL                                | 03 Maggio 2024 |8:00-11:00             |                                 |                 |
 | Progettazione Concettuale                          | 16 Maggio 2024 |10:00-12:00            |                                 |                 |
