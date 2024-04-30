@@ -37,15 +37,17 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione  Complessiva SQL - 2                 | 11 Aprile 2024 |8:00-11:00             |                                 |[Esercitazione](https://tinyurl.com/es1104) [dati](https://tinyurl.com/dati1104) <br> [Soluzione](https://tinyurl.com/10soles)                 |
 | Simulazione Prova in itinere                       | 12 Aprile 2024 |9:00-12:00             | | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETG6PpMprShPgl3ehDXHZ6YBSxp5LMeDjEtXiQ0D04QYqA?e=QLc3n4), [Soluzione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EXKNtto2dDNMtjij1LHwf3EBa0yyURGfVZtpaoKpvUKySw?e=wVIZRj)                                |                 
 | **Prova in itinere  SQL**                          | **29 Aprile 2024** |15:00-19:00        |                                 |                 | 
-| NoSQL                                              | 02 Maggio 2024 |10:00-12:00            |                                 |                 |
-| Esercitazione NoSQL                                | 03 Maggio 2024 |8:00-11:00             |                                 |                 |
-| Progettazione Concettuale                          | 16 Maggio 2024 |10:00-12:00            |                                 |                 |
-| Esempi progettazione concettuale                   | 17 Maggio 2024 |8:00-11:00             |                                 |                 |
-| Progettazione logica                               | 23 Maggio 2024 |10:00-12:00            |                                 |                 |
-| Esercitazione progettazione logica                 | 24 Maggio 2024 |8:00-11:00             |                                 |                 |
-| Esercitazione progettazione                        | 30 Maggio 2024 |8:00-12:00             |                                 |                 |
-| Esercitazione progettazione                        | 31 Maggio 2024 |8:00-11:00             |                                 |                 |
+| Progettazione Concettuale                          | 02 Maggio 2024 |10:00-12:00            |                                 |                 |
+| Esempi progettazione concettuale                   | 03 Maggio 2024 |8:00-11:00             |                                 |                 |
+| Progettazione logica                               | 16 Maggio 2024 |10:00-12:00            |                                 |                 |
+| Esercitazione progettazione logica                 | 17 Maggio 2024 |8:00-11:00             |                                 |                 |
+| Esercitazione progettazione                        | 23 Maggio 2024 |10:00-12:00            |                                 |                 |
+| Esercitazione progettazione                        | 24 Maggio 2024 |8:00-11:00             |                                 |                 |
+| NoSQL                                              | 30 Maggio 2024 |8:00-12:00             |                                 |                 |
+| Esercitazione NoSQL                                | 31 Maggio 2024 |8:00-11:00             |                                 |                 |
 | **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD                    |                                 |                 | 
+
+
 
 #### Esami
 
@@ -78,6 +80,8 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
 | 2     | [MySQL Base](https://tinyurl.com/hw2basesql)           | 22 Marzo 2024     | 29 Marzo 2024    |
 | 3     | [SQL Operatori Aggregati](https://tinyurl.com/hw3aggr) | 28 Marzo 2024     | ~~04 Aprile 2024~~ 08 Aprile 2024   |
 | 4     | [Procedure e Trigger](https://tinyurl.com/hw4trigger)  | 29 Marzo 2024     | ~~09 Aprile 2024~~ 15 Aprile 2024  |
+
+**Prova in itinere 2: Progettazione**
 
 #### Contatti e ricevimento
 
