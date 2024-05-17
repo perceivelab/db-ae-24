@@ -40,7 +40,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Progettazione Concettuale                          | 02 Maggio 2024 |10:00-12:00            | [Progettazione Concettuale](https://tinyurl.com/13progConc) |                 |
 | Esempi progettazione concettuale                   | 03 Maggio 2024 |8:00-11:00             |                                 | [Esercizi](https://tinyurl.com/esProgConc)                 |
 | Progettazione logica                               | 16 Maggio 2024 |10:00-12:00            | [Progettazione Logica](https://tinyurl.com/proglogic)  |                 |
-| Esercitazione progettazione logica                 | 17 Maggio 2024 |11:00-14:00 Aula IB    |                                 |                 |
+| Esercitazione progettazione logica                 | 17 Maggio 2024 |11:00-14:00 Aula IB    |                                 | [Esercizio 1](https://tinyurl.com/esproglog)                |
 | Esercitazione progettazione                        | 23 Maggio 2024 |9:00-12:00             |                                 |                 |
 | Esercitazione progettazione                        | 24 Maggio 2024 |8:00-11:00             |                                 |                 |
 | NoSQL                                              | 30 Maggio 2024 |8:00-12:00             |                                 |                 |
