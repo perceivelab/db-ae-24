@@ -43,8 +43,8 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione progettazione logica                 | 17 Maggio 2024 |11:00-14:00 Aula IB    |                                 | [Esercizio 1](https://tinyurl.com/esproglog)                |
 | Esercitazione progettazione                        | 23 Maggio 2024 |9:00-12:00             |                                 |[Esercitazione](https://tinyurl.com/prog205)                 |
 | Esercitazione progettazione                        | 24 Maggio 2024 |8:00-11:00             |                                 |                 |
-| NoSQL                                              | 30 Maggio 2024 |8:00-12:00             |                                 |                 |
-| Esercitazione NoSQL                                | 31 Maggio 2024 |8:00-11:00             |                                 |                 |
+| Esercitazione progettazione                        | 30 Maggio 2024 |8:00-12:00             |                                 |                 |
+| Esercitazione progettazione                        | 31 Maggio 2024 |8:00-11:00             |                                 |                 |
 | **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD                    |                                 |                 | 
 
 
