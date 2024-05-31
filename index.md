@@ -46,8 +46,8 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 |17| Esercitazione progettazione                        | 23 Maggio 2024 |9:00-12:00             |                                 |[Esercitazione](https://tinyurl.com/prog205) [Soluzione](https://tinyurl.com/sol2prog)                |
 |18| Esercitazione progettazione                        | 30 Maggio 2024 |9:00-12:00             |                                 | [Esercizio 1](https://tinyurl.com/escattext) [Esercizio 2](https://tinyurl.com/esconftext)<br> [Soluzione 1](https://tinyurl.com/escater) [Soluzione 2](https://tinyurl.com/esconfsol)               |
 |19| Esercitazione progettazione                        | 31 Maggio 2024 |8:00-11:00             |                                 |[Esercizio](https://tinyurl.com/esarctext) [Soluzione](https://tinyurl.com/exarcsol)                 |
-|20| Esercitazione progettazione                        |  Giugno 2024 |TBD             |                                 |                 |
-|  | **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD                    |                                 |                 | 
+|20| Esercitazione progettazione                        | 03 Giugno 2024 |11:00 - 14:00             |                                 |                 |
+|  | **Prova in itinere Progettazione**                 | 07 Giugno 2024 |Pomeriggio                    |                                 |                 | 
 
 
 
